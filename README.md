@@ -60,4 +60,4 @@ This project exists thanks to the extraordinary people who contributed to it.
 
 ### References:
 
-Ni, J., Li, J. and McAuley, J. (2019) ‘Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects’, *Empirical Methods in Natural Language Processing (EMNLP)* [Preprint]. Available at: https://cseweb.ucsd.edu//~jmcauley/pdfs/emnlp19a.pdf (Accessed: 25 June 2023).
+* Ni, J., Li, J. and McAuley, J. (2019) ‘Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects’, *Empirical Methods in Natural Language Processing (EMNLP)* [Preprint]. Available at: https://cseweb.ucsd.edu//~jmcauley/pdfs/emnlp19a.pdf (Accessed: 25 June 2023).
