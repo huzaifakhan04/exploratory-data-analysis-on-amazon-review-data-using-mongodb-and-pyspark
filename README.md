@@ -18,7 +18,7 @@ In the context of product reviews, Exploratory Data Analysis (EDA) can be used t
 * wordcloud (install - [Anaconda](https://anaconda.org/conda-forge/wordcloud) | install - [PyPI](https://pypi.org/project/wordcloud/))
 * NLTK ([install](https://www.nltk.org/install.html))
 
-### What is the Amazon Review Data (2018)?
+### What Is Amazon Review Data (2018)?
 
 The Amazon Review Data (2018) dataset is an open-source [collection](https://nijianmo.github.io/amazon/index.html) of nearly 233.1 million product reviews from the Amazon.com marketplace in a JavaScript Object Notation (JSON) format. It contains text reviews and ratings for various products, including books, electronics, movies, and more. The dataset is often used in natural language processing (NLP) and sentiment analysis research. It provides a valuable resource for training machine learning models to understand and analyse customer reviews.
 
